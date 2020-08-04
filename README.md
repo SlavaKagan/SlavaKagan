@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+## Welcome to my profile, hope you will enjoy!
+
 - 🔭 I’m currently working on some interesting own projects
 - 📫 How to reach me: slava.kagan92@gmail.com
 
