@@ -1,4 +1,6 @@
 ### Hi there 👋
+🔭 I’m currently working on some interesting own projects
+📫 How to reach me: slava.kagan92@gmail.com
 
 <!--
 **SlavaKagan/SlavaKagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
