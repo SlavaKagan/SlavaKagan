@@ -7,9 +7,9 @@ I have a deep interest in current technologies and scalable architectures.<br>
 My software addiction began at school where I practiced Java and JavaScript and recently, I’m into Python, learning every corner about this language.<br>
 
 Programming Languages and Relevant knowledge:
-* Program mainly in Java, Python, C
-* Good skills with JavaScript, NodeJS, HTML5, CSS3, SQL, React
-* Rest API, Git, Agile Programming, Jira, OOP, Design Patterns <br>
+-Program mainly in Java, Python, C
+-Good skills with JavaScript, NodeJS, HTML5, CSS3, SQL, React
+-Rest API, Git, Agile Programming, Jira, OOP, Design Patterns <br>
 
 - ⚡ Coding is a hobby and I enjoy building and creating new application and programs to pass the time and solve my and other problems
 - 🌱 Autodidact, fast learner, love to work with people
