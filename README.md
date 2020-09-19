@@ -2,7 +2,7 @@
 
 #### Welcome to my profile, hope you will enjoy!
 
-My name is <b>Slava Kagan</b>, I have a <b>B.Sc at Software Engineering.</b>
+My name is <b>Slava Kagan</b>, I have a <b>B.Sc at Software Engineering</b>, Specialization: Software and Information Technology.
 I have a deep interest in current technologies and scalable architectures. My software addiction began at school where I practiced Java and JavaScript and recently, I’m into Python, learning every corner about this language. 
 
 - ⚡ Coding is a hobby and I enjoy building and creating new application and programs to pass the time and solve my and other problems
