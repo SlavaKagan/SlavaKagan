@@ -5,10 +5,9 @@
 My name is <b>Slava Kagan</b>, I have a <b>B.Sc at Software Engineering</b>, Specialization: Software and Information Technology.<br>
 I have a deep interest in current technologies and scalable architectures.<br>
 My software addiction began at school where I practiced Java and JavaScript and recently, I’m into Python, learning every corner about this language.<br>
-
-- Program mainly in Java, Python, C
-- Good skills with JavaScript, NodeJS, HTML5, CSS3, SQL, React
-- Rest API, Git, Agile Programming, Jira, OOP, Design Patterns
+Program mainly in <b>Java</b>, <b>Python</b>, <b>JavaScript</b> <b>C</b><br>
+Good skills with <b>NodeJS</b>, <b>HTML5</b>, <b>CSS3</b>, <b>SQL</b>, <b>React</b><br>
+Know also <b>Rest API</b>, <b>Git</b>, <b>Agile Programming</b>, <b>Jira</b>, <b>OOP</b>, <b>Design Patterns</b>
 
 - ⚡ Coding is a hobby and I enjoy building and creating new application and programs to pass the time and solve my and other problems
 - 🌱 Autodidact, fast learner, love to work with people
