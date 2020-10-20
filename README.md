@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Welcome to my profile, hope you will enjoy!
+#### Welcome to my profile, I hope you will enjoy!
 
 My name is <b>Slava Kagan</b>, I have a <b>B.Sc at Software Engineering</b>, Specialization: Software and Information Technology.<br>
 I have a deep interest in current technologies and scalable architectures.<br>
