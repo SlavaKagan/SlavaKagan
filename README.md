@@ -2,6 +2,10 @@
 
 #### Welcome to my profile, I hope you will enjoy!
 
+[![stats](https://github-readme-stats.vercel.app/api?username=SlavaKagan&hide=issues,contribs&count_private=trueshow_icons=true&theme=dracula&custom_title=My%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlavaKagan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 My name is <b>Slava Kagan</b>, I have a <b>B.Sc at Software Engineering</b>, Specialization: Software and Information Technology.<br>
 I have a deep interest in current technologies and scalable architectures.<br>
 My software addiction began at school where I practiced Java and JavaScript and recently, I’m into Python, learning every corner about this language.<br>
