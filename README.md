@@ -2,7 +2,7 @@
 
 #### Welcome to my profile, I hope you will enjoy!
 
-[![stats](https://github-readme-stats.vercel.app/api?username=SlavaKagan&hide=issues,contribs&count_private=trueshow_icons=true&theme=dracula&custom_title=My%20Stats)](https://github.com/SlavaKagan/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SlavaKagan&show_icons=true&count_private=true&theme=radical)](https://github.com/SlavaKagan/github-readme-stats)
 
 [![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlavaKagan&layout=compact)](https://github.com/SlavaKagan/github-readme-stats)
 
